@@ -1,71 +1,78 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4f46e5;">Parvesh Kumar Kha Tharu</span></h1>
-
-<h3 align="center">🚀 Frontend Developer | UI Enthusiast | React Lover</h3>
+<h1 align="center">Parvesh Kumar Kha Tharu</h1>
+<h3 align="center">Frontend Developer | React | JavaScript | UI Engineering</h3>
 
 <p align="center">
-  Passionate about building modern, responsive, and user-friendly web applications.  
-  I enjoy turning ideas into beautiful digital experiences using clean code & great UI.
+  I build clean, responsive, and user-focused web applications using modern frontend technologies.
+  Committed to writing maintainable code and continuously improving through real-world projects.
 </p>
 
 ---
 
-## 🌟 **About Me**
+## 🔹 About Me
 
-- 🎯 Frontend Developer from **Nepal**
-- 💡 Loves creating **beautiful UI/UX** and responsive websites  
-- 🌱 Currently learning **TypeScript** & **Node.js**  
-- 🔥 Experience with building **E-commerce**, **CRUD apps**, **Dashboards**, and **API-based projects**
-- 🎨 Basic skills in **Figma** for UI design  
-- 💼 Searching for **Internship / Junior Frontend Developer** roles  
-- 💬 Ask me about anything related to **React, CSS, and modern frontend dev**
+- Frontend Developer based in **Nepal**  
+- Strong focus on **React**, component architecture, and modern JavaScript  
+- Experienced with building **E-commerce**, **Dashboard**, and **API-driven applications**  
+- Currently learning **TypeScript** and **Node.js** to move toward full-stack development  
+- Interested in UI/UX fundamentals and clean product design  
+- Open to **Internship** and **Junior Frontend Developer** roles  
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🔹 Tech Stack
 
-### 🔧 **Frontend**
+### Core Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,ts" />
 </p>
 
-### 🧰 **Other Tools**
+### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vite,nodejs,postman" />
+  <img src="https://skillicons.dev/icons?i=vite,git,github,figma,nodejs,postman" />
 </p>
 
-### 🌐 **Libraries & Skills**
+### Key Skills
+- React.js & Component-Based Architecture  
+- Redux Toolkit & Global State Management  
 - React Router DOM  
-- Redux Toolkit  
-- Axios  
-- REST API Handling  
-- UI/UX fundamentals  
-- State & global state management  
-- Component-based design  
+- Axios & REST API Integration  
+- Tailwind CSS & Responsive UI  
+- Basic UI Design in Figma  
+- Code Optimization & Clean Folder Structures  
 
 ---
 
-## 📌 **Projects**
+## 🔹 Featured Projects
 
-### 🔹 **E-Commerce Store (FakeStore API)**
-✔ Search, Filter, Pagination  
-✔ Add to Cart, Context API / Redux  
-✔ Product Details Page  
-✔ Fully responsive UI  
+### **E-Commerce Application (FakeStore API)**
+- Product listing with filters, search, sorting  
+- Add to cart, product details, pagination  
+- Context API / Redux Toolkit for state management  
+- Fully responsive UI and clean layout  
 
-### 🔹 **Dashboard Application**
-✔ Charts, Sales, Products, Users Modules  
-✔ Dark/Light Mode  
-✔ Authentication (JWT/Auth0)  
-✔ Completely responsive  
+### **Admin Dashboard**
+- Multiple modules: Sales, Products, Users, Reports  
+- Chart visualizations and analytics  
+- Authentication (JWT/Auth0)  
+- Light/Dark mode support  
 
-### 🔹 **Portfolio Website**
-✔ Modern, clean UI  
-✔ Smooth animations  
-✔ Mobile-first design  
+### **Portfolio Website**
+- Minimal, professional UI  
+- Smooth UI transitions  
+- Mobile-first responsive design  
 
 ---
 
-## 📫 **Connect With Me**
+## 🔹 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" height="150"/>
+</p>
+
+---
+
+## 🔹 Connect With Me
 <p align="left">
   <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -73,12 +80,15 @@
 
 ---
 
-## ❤️ **Fun Facts**
-- I love learning and building real-world apps  
-- I enjoy clean UI, animations & frontend challenges  
-- I want to become a **Full-Stack Developer** soon  
+## 🔹 Professional Interests
+- Scalable frontend architectures  
+- UI design systems  
+- Performance optimization  
+- Clean and maintainable code  
 
 ---
 
-## ⭐ **Support My Work**
-If you like my projects, consider giving a ⭐ to my repositories!  
+## Closing Note
+I am always learning, building, and refining my skills through real projects.  
+Feel free to explore my repositories and reach out for collaborations or opportunities.
+
