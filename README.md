@@ -1,5 +1,5 @@
 <h1 align="center">Parvesh Kumar Kha Tharu</h1>
-<h3 align="center">Frontend Developer | React | JavaScript | UI Engineering</h3>
+<h3 align="center">Frontend Developer | React | JavaScript </h3>
 
 <p align="center">
   I build clean, responsive, and user-focused web applications using modern frontend technologies.
@@ -28,7 +28,7 @@
 
 ### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,git,github,figma,nodejs,postman" />
+  <img src="https://skillicons.dev/icons?i=vite,git,github,figma,nodejs," />
 </p>
 
 ### Key Skills
