@@ -64,13 +64,9 @@
 ---
 
 ## 🔹 Connect With Me
-<p align="left">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1f2937?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/profile.php?id=61580833828743)
 [![Instagram](https://img.shields.io/badge/Instagram-1f2937?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/parvesh____0/)
-
-</p>
-
 
 ---
 
