@@ -63,19 +63,10 @@
 
 ---
 
-## 🔹 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" height="150"/>
-</p>
-
----
-
 ## 🔹 Connect With Me
 <p align="left">
-  <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61580833828743"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.instagram.com/parvesh____0/"img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
