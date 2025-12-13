@@ -65,14 +65,17 @@
 
 ## 🔹 Connect With Me
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=61580833828743" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-<a href="https://www.instagram.com/parvesh____0/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
+  <a href="https://www.facebook.com/profile.php?id=61580833828743" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
+         alt="Facebook" width="30" height="30" />
+  </a>
+  
+  <a href="https://www.instagram.com/parvesh____0/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
+         alt="Instagram" width="30" height="30" />
+  </a>
 </p>
+
 
 ---
 
