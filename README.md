@@ -39,28 +39,6 @@
 - Tailwind CSS & Responsive UI  
 - Basic UI Design in Figma  
 - Code Optimization & Clean Folder Structures  
-
----
-
-## 🔹 Featured Projects
-
-### **E-Commerce Application (FakeStore API)**
-- Product listing with filters, search, sorting  
-- Add to cart, product details, pagination  
-- Context API / Redux Toolkit for state management  
-- Fully responsive UI and clean layout  
-
-### **Admin Dashboard**
-- Multiple modules: Sales, Products, Users, Reports  
-- Chart visualizations and analytics  
-- Authentication (JWT/Auth0)  
-- Light/Dark mode support  
-
-### **Portfolio Website**
-- Minimal, professional UI  
-- Smooth UI transitions  
-- Mobile-first responsive design  
-
 ---
 
 ## 🔹 Connect With Me
@@ -77,8 +55,4 @@
 - Clean and maintainable code  
 
 ---
-
-## Closing Note
-I am always learning, building, and refining my skills through real projects.  
-Feel free to explore my repositories and reach out for collaborations or opportunities.
 
