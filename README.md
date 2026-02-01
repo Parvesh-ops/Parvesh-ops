@@ -8,17 +8,6 @@
 
 ---
 
-## 🔹 About Me
-
-- Frontend Developer based in **Nepal**  
-- Strong focus on **React**, component architecture, and modern JavaScript  
-- Experienced with building **E-commerce**, **Dashboard**, and **API-driven applications**  
-- Currently learning **TypeScript** and **Node.js** to move toward full-stack development  
-- Interested in UI/UX fundamentals and clean product design  
-- Open to **Internship** and **Junior Frontend Developer** roles  
-
----
-
 ## 🔹 Tech Stack
 
 ### Core Frontend
