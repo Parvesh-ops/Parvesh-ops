@@ -29,7 +29,7 @@
 - 🚀 Next.js (Routing, SSR basics)  
 - 🧠 Redux Toolkit & Global State Management  
 - 🔗 REST API Integration (Axios / Fetch)  
-- 🎨 Tailwind CSS & Fully Responsive Design  
+- 🎨 shadcn ui, Tailwind CSS & Fully Responsive Design  
 - 🧩 Clean Code & Scalable Folder Structure  
 - 🎯 Problem Solving & Debugging  
 - 🎨 Basic UI/UX Design (Figma)  
@@ -44,7 +44,7 @@
 - Integrated APIs for dynamic data handling  
 - Focused on performance and user experience  
 
-👉 *(Add GitHub repo link here)*
+ *Source code is private due to company policy*
 
 ---
 
@@ -72,5 +72,5 @@
 
 ## 📢 Current Status
 
-🚀 Actively looking for **Frontend Developer opportunities (React / Next.js)**  
-💼 Open to full-time roles and freelance projects  
+ looking for **Frontend Developer opportunities (React / Next.js)**  
+ Open to full-time roles and freelance projects  
