@@ -36,18 +36,6 @@
 
 ---
 
-## 💼 Projects
-
-### 🏨 Hotel Booking Website
-- Built a real-world hotel website as a frontend developer  
-- Developed responsive UI using Tailwind CSS  
-- Integrated APIs for dynamic data handling  
-- Focused on performance and user experience  
-
- *Source code is private due to company policy*
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
